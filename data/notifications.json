@@ -1,0 +1,204 @@
+{
+  "notifications": [
+    {
+      "id": "1",
+      "title": "New Message",
+      "message": "You have received a new message from John",
+      "type": "message",
+      "priority": "high",
+      "timestamp": "2024-12-30T20:30:00",
+      "read": false,
+      "image": "https://cdn.pixabay.com/photo/2016/12/13/07/25/email-1903444_1280.jpg"
+    },
+    {
+      "id": "2",
+      "title": "System Update",
+      "message": "A new system update is available",
+      "type": "system",
+      "priority": "medium",
+      "timestamp": "2024-12-30T19:45:00",
+      "read": true,
+      "image": "https://images.unsplash.com/photo-1537432376769-00f5c2f4c8d2?w=500"
+    },
+    {
+      "id": "3",
+      "title": "Meeting Reminder",
+      "message": "Team meeting starts in 15 minutes",
+      "type": "reminder",
+      "priority": "high",
+      "timestamp": "2024-12-30T21:00:00",
+      "read": false,
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=500"
+    },
+    {
+      "id": "4",
+      "title": "Payment Success",
+      "message": "Your payment has been processed successfully",
+      "type": "payment",
+      "priority": "low",
+      "timestamp": "2024-12-30T18:20:00",
+      "read": true,
+      "image": "https://images.unsplash.com/photo-1559589689-577aabd1db4f?w=500"
+    },
+    {
+      "id": "5",
+      "title": "Friend Request",
+      "message": "Sarah sent you a friend request",
+      "type": "social",
+      "priority": "medium",
+      "timestamp": "2024-12-30T17:55:00",
+      "read": false,
+      "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=500"
+    },
+    {
+      "id": "6",
+      "title": "Storage Alert",
+      "message": "Your storage is almost full",
+      "type": "alert",
+      "priority": "high",
+      "timestamp": "2024-12-30T17:30:00",
+      "read": false,
+      "image": "https://images.unsplash.com/photo-1586769852044-692d6e3703f0?w=500"
+    },
+    {
+      "id": "7",
+      "title": "New Comment",
+      "message": "Mike commented on your post",
+      "type": "social",
+      "priority": "low",
+      "timestamp": "2024-12-30T16:45:00",
+      "read": true,
+      "image": "https://images.unsplash.com/photo-1581382575275-97901c2635b7?w=500"
+    },
+    {
+      "id": "8",
+      "title": "Weather Alert",
+      "message": "Heavy rain expected in your area",
+      "type": "alert",
+      "priority": "high",
+      "timestamp": "2024-12-30T16:20:00",
+      "read": false,
+      "image": "https://images.unsplash.com/photo-1534088568595-a066f410bcda?w=500"
+    },
+    {
+      "id": "9",
+      "title": "Calendar Event",
+      "message": "Dentist appointment tomorrow at 2 PM",
+      "type": "reminder",
+      "priority": "medium",
+      "timestamp": "2024-12-30T15:50:00",
+      "read": true,
+      "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=500"
+    },
+    {
+      "id": "10",
+      "title": "Security Alert",
+      "message": "New login detected from unknown device",
+      "type": "security",
+      "priority": "high",
+      "timestamp": "2024-12-30T15:30:00",
+      "read": false,
+      "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=500"
+    },
+    {
+      "id": "11",
+      "title": "Order Shipped",
+      "message": "Your package is on its way",
+      "type": "order",
+      "priority": "medium",
+      "timestamp": "2024-12-30T15:00:00",
+      "read": true,
+      "image": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?w=500"
+    },
+    {
+      "id": "12",
+      "title": "Battery Low",
+      "message": "Device battery at 10%",
+      "type": "system",
+      "priority": "high",
+      "timestamp": "2024-12-30T14:45:00",
+      "read": false,
+      "image": "https://cdn.pixabay.com/photo/2017/08/01/23/23/smartphone-2568602_1280.jpg"
+    },
+    {
+      "id": "13",
+      "title": "New Follower",
+      "message": "Alex started following you",
+      "type": "social",
+      "priority": "low",
+      "timestamp": "2024-12-30T14:20:00",
+      "read": true,
+      "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=500"
+    },
+    {
+      "id": "14",
+      "title": "Update Complete",
+      "message": "System update installed successfully",
+      "type": "system",
+      "priority": "low",
+      "timestamp": "2024-12-30T14:00:00",
+      "read": true,
+      "image": "https://images.unsplash.com/photo-1537432376769-00f5c2f4c8d2?w=500"
+    },
+    {
+      "id": "15",
+      "title": "New Email",
+      "message": "Important email from your boss",
+      "type": "message",
+      "priority": "high",
+      "timestamp": "2024-12-30T13:45:00",
+      "read": false,
+      "image": "https://images.unsplash.com/photo-1557200134-90327ee9fafa?w=500"
+    },
+    {
+      "id": "16",
+      "title": "Subscription Renewal",
+      "message": "Your subscription will renew tomorrow",
+      "type": "payment",
+      "priority": "medium",
+      "timestamp": "2024-12-30T13:30:00",
+      "read": false,
+      "image": "https://images.unsplash.com/photo-1559589689-577aabd1db4f?w=500"
+    },
+    {
+      "id": "17",
+      "title": "Achievement Unlocked",
+      "message": "You've reached a new milestone!",
+      "type": "achievement",
+      "priority": "low",
+      "timestamp": "2024-12-30T13:15:00",
+      "read": true,
+      "image": "https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?w=500"
+    },
+    {
+      "id": "18",
+      "title": "Network Issue",
+      "message": "Weak internet connection detected",
+      "type": "alert",
+      "priority": "high",
+      "timestamp": "2024-12-30T13:00:00",
+      "read": false,
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=500"
+    },
+    {
+      "id": "19",
+      "title": "Birthday Reminder",
+      "message": "It's Lisa's birthday tomorrow",
+      "type": "reminder",
+      "priority": "medium",
+      "timestamp": "2024-12-30T12:45:00",
+      "read": true,
+      "image": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=500"
+    },
+    {
+      "id": "20",
+      "title": "App Update",
+      "message": "New version available for download",
+      "type": "system",
+      "priority": "low",
+      "timestamp": "2024-12-30T12:30:00",
+      "read": false,
+      "image": "https://images.unsplash.com/photo-1537432376769-00f5c2f4c8d2?w=500"
+    }
+  ]
+}

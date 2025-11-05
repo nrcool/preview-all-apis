@@ -1,0 +1,202 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Inception",
+      "director": "Christopher Nolan",
+      "genre": "Sci-Fi",
+      "rating": 8.8,
+      "year": 2010,
+      "image": "/movies/inception.jpg"
+    },
+    {
+      "id": "2",
+      "title": "The Shawshank Redemption",
+      "director": "Frank Darabont",
+      "genre": "Drama",
+      "rating": 9.3,
+      "year": 1994,
+      "image": "/movies/theshawshank.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Pulp Fiction",
+      "director": "Quentin Tarantino",
+      "genre": "Crime",
+      "rating": 8.9,
+      "year": 1994,
+      "image": "/movies/pulpfiction.jpg"
+    },
+    {
+      "id": "4",
+      "title": "The Dark Knight",
+      "director": "Christopher Nolan",
+      "genre": "Action",
+      "rating": 9.0,
+      "year": 2008,
+      "image": "/movies/thedarkknight.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Forrest Gump",
+      "director": "Robert Zemeckis",
+      "genre": "Drama",
+      "rating": 8.8,
+      "year": 1994,
+      "image": "/movies/forrestgump.jpg"
+    },
+    {
+      "id": "6",
+      "title": "The Matrix",
+      "director": "Lana and Lilly Wachowski",
+      "genre": "Sci-Fi",
+      "rating": 8.7,
+      "year": 1999,
+      "image": "/movies/thematrix.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Goodfellas",
+      "director": "Martin Scorsese",
+      "genre": "Crime",
+      "rating": 8.7,
+      "year": 1990,
+      "image": "/movies/goodfellas.jpg"
+    },
+    {
+      "id": "8",
+      "title": "The Silence of the Lambs",
+      "director": "Jonathan Demme",
+      "genre": "Thriller",
+      "rating": 8.6,
+      "year": 1991,
+      "image": "/movies/thesilience.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Schindler's List",
+      "director": "Steven Spielberg",
+      "genre": "Biography",
+      "rating": 8.9,
+      "year": 1993,
+      "image": "/movies/theshindlerlist.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Fight Club",
+      "director": "David Fincher",
+      "genre": "Drama",
+      "rating": 8.8,
+      "year": 1999,
+      "image": "/movies/fightclub.jpg"
+    },
+    {
+      "id": "11",
+      "title": "The Godfather",
+      "director": "Francis Ford Coppola",
+      "genre": "Crime",
+      "rating": 9.2,
+      "year": 1972,
+      "image": "/movies/the-godfather.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Jurassic Park",
+      "director": "Steven Spielberg",
+      "genre": "Adventure",
+      "rating": 8.1,
+      "year": 1993,
+      "image": "/movies/jurassicpark.jpg"
+    },
+    {
+      "id": "13",
+      "title": "The Green Mile",
+      "director": "Frank Darabont",
+      "genre": "Drama",
+      "rating": 8.6,
+      "year": 1999,
+      "image": "/movies/thegreenmile.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Gladiator",
+      "director": "Ridley Scott",
+      "genre": "Action",
+      "rating": 8.5,
+      "year": 2000,
+      "image": "/movies/gladiator.jpg"
+    },
+    {
+      "id": "15",
+      "title": "The Departed",
+      "director": "Martin Scorsese",
+      "genre": "Crime",
+      "rating": 8.5,
+      "year": 2006,
+      "image": "/movies/thedeparted.jpg"
+    },
+    {
+      "id": "16",
+      "title": "Saving Private Ryan",
+      "director": "Steven Spielberg",
+      "genre": "War",
+      "rating": 8.6,
+      "year": 1998,
+      "image": "/movies/privateryan.jpg"
+    },
+    {
+      "id": "17",
+      "title": "Interstellar",
+      "director": "Christopher Nolan",
+      "genre": "Sci-Fi",
+      "rating": 8.6,
+      "year": 2014,
+      "image": "/movies/interstellar.jpg"
+    },
+    {
+      "id": "18",
+      "title": "The Lion King",
+      "director": "Roger Allers",
+      "genre": "Animation",
+      "rating": 8.5,
+      "year": 1994,
+      "image": "/movies/thelionking.jpg"
+    },
+    {
+      "id": "19",
+      "title": "The Usual Suspects",
+      "director": "Bryan Singer",
+      "genre": "Crime",
+      "rating": 8.5,
+      "year": 1995,
+      "image": "/movies/theusualsusjjects.jpg"
+    },
+    {
+      "id": "20",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "director": "Michel Gondry",
+      "genre": "Romance",
+      "rating": 8.3,
+      "year": 2004,
+      "image": "/movies/eternalsunshine.jpg"
+    },
+     {
+      "id": "21",
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "director": "Quentin Tarantino",
+      "genre": ["Crime", "Drama"],
+      "rating": 8.9,
+      "image": "/movies/pulpfiction.jpg"
+    },
+    {
+      "id": "22",
+      "title": "Schindler's List",
+      "year": 1993,
+      "director": "Steven Spielberg",
+      "genre": ["Biography", "Drama", "History"],
+      "rating": 9.0,
+      "image": "/movies/theshindlerlist.jpg"
+    }
+  ]
+}

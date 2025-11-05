@@ -1,0 +1,114 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "make": "Tesla",
+      "model": "Model S",
+      "image": "https://images.unsplash.com/photo-1560958089-b8a1929cea89",
+      "year": 2023,
+      "type": "Electric",
+      "price": 89990,
+      "color": "Midnight Silver",
+      "features": ["Autopilot", "Long Range", "Premium Interior"]
+    },
+    {
+      "id": 2,
+      "make": "Toyota",
+      "model": "Camry",
+      "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d",
+      "year": 2023,
+      "type": "Hybrid",
+      "price": 25945,
+      "color": "Pearl White",
+      "features": ["Safety Sense", "Apple CarPlay", "Android Auto"]
+    },
+    {
+      "id": 3,
+      "make": "BMW",
+      "model": "M3",
+      "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e",
+      "year": 2023,
+      "type": "Gasoline",
+      "price": 72800,
+      "color": "Alpine White",
+      "features": ["M Drive", "Carbon Fiber", "Harman Kardon"]
+    },
+    {
+      "id": 4,
+      "make": "Ford",
+      "model": "F-150",
+      "image": "https://images.unsplash.com/photo-1583121274602-3e2820c69888",
+      "year": 2023,
+      "type": "Hybrid",
+      "price": 33695,
+      "color": "Race Red",
+      "features": ["Pro Power Onboard", "Sync 4", "Co-Pilot360"]
+    },
+    {
+      "id": 5,
+      "make": "Porsche",
+      "model": "911",
+      "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70",
+      "year": 2023,
+      "type": "Gasoline",
+      "price": 106100,
+      "color": "Guards Red",
+      "features": ["Sport Chrono", "PDK", "Sport Exhaust"]
+    },
+    {
+      "id": 6,
+      "make": "Honda",
+      "model": "CR-V",
+      "image": "https://images.unsplash.com/photo-1568844293986-8d0400bd4745",
+      "year": 2023,
+      "type": "Hybrid",
+      "price": 31610,
+      "color": "Crystal Black",
+      "features": ["Honda Sensing", "AWD", "Wireless Charging"]
+    },
+    {
+      "id": 7,
+      "make": "Chevrolet",
+      "model": "Corvette",
+      "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3e",
+      "year": 2023,
+      "type": "Gasoline",
+      "price": 64500,
+      "color": "Torch Red",
+      "features": ["Magnetic Ride", "Head-Up Display", "Performance Data"]
+    },
+    {
+      "id": 8,
+      "make": "Audi",
+      "model": "e-tron GT",
+      "image": "https://images.unsplash.com/photo-1612825173281-9a193378527e",
+      "year": 2023,
+      "type": "Electric",
+      "price": 102400,
+      "color": "Daytona Gray",
+      "features": ["quattro", "Matrix LED", "Virtual Cockpit"]
+    },
+    {
+      "id": 9,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf",
+      "year": 2023,
+      "type": "Gasoline",
+      "price": 31195,
+      "color": "Firecracker Red",
+      "features": ["4x4", "Removable Top", "Trail Rated"]
+    },
+    {
+      "id": 10,
+      "make": "Mercedes-Benz",
+      "model": "S-Class",
+      "image": "https://images.unsplash.com/photo-1553440569-bcc63803a83d",
+      "year": 2023,
+      "type": "Hybrid",
+      "price": 111100,
+      "color": "Obsidian Black",
+      "features": ["MBUX", "Air Suspension", "Burmester 3D"]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "weathers": [
+    {
+      "id": 1,
+      "city": "New York",
+      "temperature": 22,
+      "condition": "Sunny",
+      "icon": "https://images.unsplash.com/photo-1590552515252-3a5a1bce7bed",
+      "humidity": 65,
+      "wind_speed": 12,
+      "date": "2024-12-29"
+    },
+    {
+      "id": 2,
+      "city": "London",
+      "temperature": 15,
+      "condition": "Rainy",
+      "icon": "https://images.unsplash.com/photo-1534088568595-a066f410bcda",
+      "humidity": 80,
+      "wind_speed": 18,
+      "date": "2024-12-29"
+    },
+    {
+      "id": 3,
+      "city": "Tokyo",
+      "temperature": 28,
+      "condition": "Partly Cloudy",
+      "icon": "https://cdn.pixabay.com/photo/2015/09/23/02/59/sun-952824_1280.jpg",
+      "humidity": 70,
+      "wind_speed": 8,
+      "date": "2024-12-29"
+    },
+    {
+      "id": 4,
+      "city": "Sydney",
+      "temperature": 30,
+      "condition": "Clear",
+      "icon": "https://cdn.pixabay.com/photo/2016/11/29/08/40/bird-1868488_1280.jpg",
+      "humidity": 55,
+      "wind_speed": 15,
+      "date": "2024-12-29"
+    },
+    {
+      "id": 5,
+      "city": "Paris",
+      "temperature": 18,
+      "condition": "Cloudy",
+      "icon": "https://cdn.pixabay.com/photo/2020/07/04/06/41/clouds-5368444_1280.jpg",
+      "humidity": 75,
+      "wind_speed": 10,
+      "date": "2024-12-29"
+    },
+    {
+      "id": 6,
+      "city": "Dubai",
+      "temperature": 35,
+      "condition": "Sunny",
+      "icon": "https://cdn.pixabay.com/photo/2022/11/22/17/22/mountains-7610216_960_720.jpg",
+      "humidity": 45,
+      "wind_speed": 20,
+      "date": "2024-12-29"
+    },
+    {
+      "id": 7,
+      "city": "Moscow",
+      "temperature": -5,
+      "condition": "Snow",
+      "icon": "https://cdn.pixabay.com/photo/2016/11/12/22/35/winter-1819926_1280.jpg",
+      "humidity": 85,
+      "wind_speed": 25,
+      "date": "2024-12-29"
+    },
+    {
+      "id": 8,
+      "city": "Rio de Janeiro",
+      "temperature": 32,
+      "condition": "Sunny",
+      "icon": "https://cdn.pixabay.com/photo/2021/09/21/22/10/sunset-6645036_1280.jpg",
+      "humidity": 60,
+      "wind_speed": 12,
+      "date": "2024-12-29"
+    },
+    {
+      "id": 9,
+      "city": "Cape Town",
+      "temperature": 25,
+      "condition": "Windy",
+      "icon": "https://cdn.pixabay.com/photo/2018/10/25/20/54/palm-trees-3773414_1280.jpg",
+      "humidity": 65,
+      "wind_speed": 30,
+      "date": "2024-12-29"
+    },
+    {
+      "id": 10,
+      "city": "Singapore",
+      "temperature": 29,
+      "condition": "Thunderstorm",
+      "icon": "https://cdn.pixabay.com/photo/2017/12/26/19/30/storm-3041241_1280.jpg",
+      "humidity": 85,
+      "wind_speed": 15,
+      "date": "2024-12-29"
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Complete Project Presentation",
+      "description": "Prepare and finalize the quarterly project presentation",
+      "status": "In Progress",
+      "priority": "High",
+      "dueDate": "2024-01-15",
+      "category": "Work",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=500"
+    },
+    {
+      "id": "2",
+      "title": "Grocery Shopping",
+      "description": "Buy weekly groceries including fruits and vegetables",
+      "status": "Pending",
+      "priority": "Medium",
+      "dueDate": "2024-01-02",
+      "category": "Personal",
+      "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=500"
+    },
+    {
+      "id": "3",
+      "title": "Gym Session",
+      "description": "Complete 1-hour workout session",
+      "status": "Completed",
+      "priority": "Medium",
+      "dueDate": "2024-01-01",
+      "category": "Health",
+      "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=500"
+    },
+    {
+      "id": "4",
+      "title": "Team Meeting",
+      "description": "Weekly team sync-up meeting",
+      "status": "Pending",
+      "priority": "High",
+      "dueDate": "2024-01-03",
+      "category": "Work",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=500"
+    },
+    {
+      "id": "5",
+      "title": "Pay Bills",
+      "description": "Clear monthly utility bills",
+      "status": "Pending",
+      "priority": "High",
+      "dueDate": "2024-01-05",
+      "category": "Finance",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=500"
+    },
+    {
+      "id": "6",
+      "title": "Book Doctor Appointment",
+      "description": "Schedule annual health check-up",
+      "status": "In Progress",
+      "priority": "Medium",
+      "dueDate": "2024-01-10",
+      "category": "Health",
+      "image": "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?w=500"
+    },
+    {
+      "id": "7",
+      "title": "Car Maintenance",
+      "description": "Take car for regular service",
+      "status": "Pending",
+      "priority": "Low",
+      "dueDate": "2024-01-20",
+      "category": "Personal",
+      "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=500"
+    },
+    {
+      "id": "8",
+      "title": "Learn React Hooks",
+      "description": "Complete online course on React Hooks",
+      "status": "In Progress",
+      "priority": "Medium",
+      "dueDate": "2024-01-25",
+      "category": "Learning",
+      "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=500"
+    },
+    {
+      "id": "9",
+      "title": "Family Dinner",
+      "description": "Organize monthly family dinner",
+      "status": "Pending",
+      "priority": "High",
+      "dueDate": "2024-01-15",
+      "category": "Personal",
+      "image": "https://images.unsplash.com/photo-1557180295-76eee20ae8aa?w=500"
+    },
+    {
+      "id": "10",
+      "title": "Update Resume",
+      "description": "Add recent projects and skills to resume",
+      "status": "Completed",
+      "priority": "Low",
+      "dueDate": "2024-01-08",
+      "category": "Career",
+      "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=500"
+    },
+    {
+      "id": "11",
+      "title": "Birthday Gift Shopping",
+      "description": "Buy birthday gift for mom",
+      "status": "Pending",
+      "priority": "High",
+      "dueDate": "2024-01-12",
+      "category": "Personal",
+      "image": "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=500"
+    },
+    {
+      "id": "12",
+      "title": "Home Cleaning",
+      "description": "Deep clean house and organize closet",
+      "status": "In Progress",
+      "priority": "Medium",
+      "dueDate": "2024-01-07",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?w=500"
+    },
+    {
+      "id": "13",
+      "title": "Write Blog Post",
+      "description": "Write technical blog post about React",
+      "status": "Not Started",
+      "priority": "Low",
+      "dueDate": "2024-01-30",
+      "category": "Content",
+      "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=500"
+    },
+    {
+      "id": "14",
+      "title": "Dentist Appointment",
+      "description": "Regular dental check-up",
+      "status": "Scheduled",
+      "priority": "Medium",
+      "dueDate": "2024-01-18",
+      "category": "Health",
+      "image": "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?w=500"
+    },
+    {
+      "id": "15",
+      "title": "Plan Vacation",
+      "description": "Research and plan summer vacation",
+      "status": "Not Started",
+      "priority": "Low",
+      "dueDate": "2024-02-01",
+      "category": "Travel",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=500"
+    },
+    {
+      "id": "16",
+      "title": "Renew Gym Membership",
+      "description": "Extend gym subscription for next quarter",
+      "status": "Pending",
+      "priority": "Low",
+      "dueDate": "2024-01-25",
+      "category": "Health",
+      "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=500"
+    },
+    {
+      "id": "17",
+      "title": "Plan Vacation",
+      "description": "Research and book summer vacation",
+      "status": "Not Started",
+      "priority": "Medium",
+      "dueDate": "2024-03-01",
+      "category": "Personal",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=500"
+    },
+    {
+      "id": "18",
+      "title": "Client Meeting",
+      "description": "Discuss project requirements with new client",
+      "status": "Scheduled",
+      "priority": "High",
+      "dueDate": "2024-01-04",
+      "category": "Work",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=500"
+    },
+    {
+      "id": "19",
+      "title": "Buy Birthday Gift",
+      "description": "Get birthday present for mom",
+      "status": "Pending",
+      "priority": "Medium",
+      "dueDate": "2024-01-22",
+      "category": "Personal",
+      "image": "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=500"
+    },
+    {
+      "id": "20",
+      "title": "Update Resume",
+      "description": "Add recent work experience and skills",
+      "status": "Not Started",
+      "priority": "Low",
+      "dueDate": "2024-01-30",
+      "category": "Career",
+      "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=500"
+    },
+    {
+      "id": "21",
+      "title": "Fix Kitchen Sink",
+      "description": "Call plumber for leaking sink repair",
+      "status": "Not Started",
+      "priority": "High",
+      "dueDate": "2024-01-03",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1585704032915-c3400ca199e7?w=500"
+    },
+    {
+      "id": "22",
+      "title": "Weekly Team Report",
+      "description": "Compile and submit team progress report",
+      "status": "In Progress",
+      "priority": "High",
+      "dueDate": "2024-01-05",
+      "category": "Work",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=500"
+    },
+    {
+      "id": "23",
+      "title": "Learn Spanish",
+      "description": "Complete beginner Spanish course",
+      "status": "In Progress",
+      "priority": "Medium",
+      "dueDate": "2024-03-15",
+      "category": "Education",
+      "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=500"
+    },
+    {
+      "id": "24",
+      "title": "Organize Digital Files",
+      "description": "Clean up and organize computer files and folders",
+      "status": "Not Started",
+      "priority": "Low",
+      "dueDate": "2024-01-28",
+      "category": "Organization",
+      "image": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=500"
+    },
+    {
+      "id": "25",
+      "title": "Investment Research",
+      "description": "Research potential investment opportunities",
+      "status": "Pending",
+      "priority": "Medium",
+      "dueDate": "2024-01-15",
+      "category": "Finance",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=500"
+    },
+    {
+      "id": "26",
+      "title": "Phone Call with Client",
+      "description": "Follow-up call about project progress",
+      "status": "Scheduled",
+      "priority": "High",
+      "dueDate": "2024-01-04",
+      "category": "Work",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=500"
+    },
+    {
+      "id": "27",
+      "title": "Buy New Laptop",
+      "description": "Research and purchase new work laptop",
+      "status": "Not Started",
+      "priority": "Medium",
+      "dueDate": "2024-02-10",
+      "category": "Shopping",
+      "image": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=500"
+    },
+    {
+      "id": "28",
+      "title": "Meditation Session",
+      "description": "30-minute morning meditation",
+      "status": "Recurring",
+      "priority": "Medium",
+      "dueDate": "2024-01-02",
+      "category": "Health",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=500"
+    },
+    {
+      "id": "29",
+      "title": "Update Social Media",
+      "description": "Post weekly business updates",
+      "status": "Pending",
+      "priority": "Low",
+      "dueDate": "2024-01-08",
+      "category": "Marketing",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=500"
+    },
+    {
+      "id": "30",
+      "title": "Plant Garden",
+      "description": "Start spring vegetable garden",
+      "status": "Not Started",
+      "priority": "Low",
+      "dueDate": "2024-03-20",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=500"
+    },
+    {
+      "id": "31",
+      "title": "Backup Data",
+      "description": "Create backup of important documents",
+      "status": "Pending",
+      "priority": "High",
+      "dueDate": "2024-01-05",
+      "category": "Technology",
+      "image": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=500"
+    },
+    {
+      "id": "32",
+      "title": "Vehicle Insurance",
+      "description": "Renew car insurance policy",
+      "status": "Not Started",
+      "priority": "High",
+      "dueDate": "2024-01-15",
+      "category": "Finance",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=500"
+    },
+    {
+      "id": "33",
+      "title": "Charity Event",
+      "description": "Organize local community fundraiser",
+      "status": "In Progress",
+      "priority": "Medium",
+      "dueDate": "2024-02-20",
+      "category": "Community",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=500"
+    },
+    {
+      "id": "34",
+      "title": "Dental Cleaning",
+      "description": "Schedule routine teeth cleaning",
+      "status": "Not Started",
+      "priority": "Medium",
+      "dueDate": "2024-01-25",
+      "category": "Health",
+      "image": "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?w=500"
+    },
+    {
+      "id": "35",
+      "title": "Project Deadline",
+      "description": "Complete and submit final project deliverables",
+      "status": "In Progress",
+      "priority": "High",
+      "dueDate": "2024-01-10",
+      "category": "Work",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=500"
+    },
+    {
+      "id": "36",
+      "title": "Book Club Meeting",
+      "description": "Host monthly book club discussion",
+      "status": "Scheduled",
+      "priority": "Low",
+      "dueDate": "2024-01-28",
+      "category": "Social",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=500"
+    },
+    {
+      "id": "37",
+      "title": "Password Update",
+      "description": "Change passwords for important accounts",
+      "status": "Not Started",
+      "priority": "High",
+      "dueDate": "2024-01-07",
+      "category": "Security",
+      "image": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=500"
+    },
+    {
+      "id": "38",
+      "title": "Volunteer Work",
+      "description": "Help at local food bank",
+      "status": "Scheduled",
+      "priority": "Medium",
+      "dueDate": "2024-01-21",
+      "category": "Community",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=500"
+    },
+    {
+      "id": "39",
+      "title": "Home Budget",
+      "description": "Review and update monthly budget",
+      "status": "Recurring",
+      "priority": "High",
+      "dueDate": "2024-01-31",
+      "category": "Finance",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=500"
+    },
+    {
+      "id": "40",
+      "title": "Learn Photography",
+      "description": "Complete online photography course",
+      "status": "In Progress",
+      "priority": "Low",
+      "dueDate": "2024-02-28",
+      "category": "Education",
+      "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=500"
+    },
+    {
+      "id": "41",
+      "title": "Network Meeting",
+      "description": "Attend industry networking event",
+      "status": "Scheduled",
+      "priority": "Medium",
+      "dueDate": "2024-01-18",
+      "category": "Career",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=500"
+    },
+    {
+      "id": "42",
+      "title": "Home Repairs",
+      "description": "Fix broken bathroom tiles",
+      "status": "Not Started",
+      "priority": "Medium",
+      "dueDate": "2024-01-14",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1585704032915-c3400ca199e7?w=500"
+    },
+    {
+      "id": "43",
+      "title": "Write Article",
+      "description": "Create content for company blog",
+      "status": "In Progress",
+      "priority": "Medium",
+      "dueDate": "2024-01-08",
+      "category": "Work",
+      "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=500"
+    },
+    {
+      "id": "44",
+      "title": "Family Photos",
+      "description": "Organize and backup family photos",
+      "status": "Not Started",
+      "priority": "Low",
+      "dueDate": "2024-02-05",
+      "category": "Personal",
+      "image": "https://images.unsplash.com/photo-1557180295-76eee20ae8aa?w=500"
+    },
+    {
+      "id": "45",
+      "title": "Car Registration",
+      "description": "Renew vehicle registration",
+      "status": "Pending",
+      "priority": "High",
+      "dueDate": "2024-01-31",
+      "category": "Legal",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=500"
+    },
+    {
+      "id": "46",
+      "title": "Learn Guitar",
+      "description": "Practice guitar for 30 minutes",
+      "status": "Recurring",
+      "priority": "Low",
+      "dueDate": "2024-01-02",
+      "category": "Hobby",
+      "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=500"
+    },
+    {
+      "id": "47",
+      "title": "Website Maintenance",
+      "description": "Update website plugins and security",
+      "status": "Pending",
+      "priority": "High",
+      "dueDate": "2024-01-05",
+      "category": "Technology",
+      "image": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=500"
+    },
+    {
+      "id": "48",
+      "title": "Meal Planning",
+      "description": "Plan meals for the week",
+      "status": "Recurring",
+      "priority": "Medium",
+      "dueDate": "2024-01-07",
+      "category": "Health",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=500"
+    },
+    {
+      "id": "49",
+      "title": "Team Building",
+      "description": "Organize team building activity",
+      "status": "Not Started",
+      "priority": "Medium",
+      "dueDate": "2024-01-25",
+      "category": "Work",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=500"
+    },
+    {
+      "id": "50",
+      "title": "Financial Review",
+      "description": "Quarterly financial planning meeting",
+      "status": "Scheduled",
+      "priority": "High",
+      "dueDate": "2024-01-15",
+      "category": "Finance",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=500"
+    }
+  ]
+}
